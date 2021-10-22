@@ -1,0 +1,17 @@
+{
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\ninfo : información\nspan : <span style=\"color:$tb$\"> word </span>\n77 : #######\n66 : ######\n55 : ##### \n44 : #### \n33 : ### ",
+  "snippets": [
+    "snippets : It is an obsidian plugin, that replaces your selected text.",
+    "info : información",
+    "span : <span style=\"color:$tb$\"> word </span>",
+    "77 : #######",
+    "66 : ######",
+    "55 : ##### ",
+    "44 : #### ",
+    "33 : ### "
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "useTab": true
+}
